@@ -103,8 +103,13 @@ namespace Tetris_Clone
 
         private void DrawNextBlock(BlockQueue blockQueue)
         {
-            Block next = blockQueue.NextBlock;
-            NextImage.Source = blockImages[next.Id];
+            var previews = blockQueue.PreviewNextBlocks(5);
+
+            NextImage1.Source = blockImages[previews[0].Id];
+            NextImage2.Source = blockImages[previews[1].Id];
+            NextImage3.Source = blockImages[previews[2].Id];
+            NextImage4.Source = blockImages[previews[3].Id];
+            NextImage5.Source = blockImages[previews[4].Id];
         }
 
         private void DrawHeldBlock(Block heldBlock)
