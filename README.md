@@ -2,7 +2,7 @@
 
 Welcome to **Tetris-Clone**, a modern take on the classic puzzle game built in **C#** using **WPF**!
 
-This project began as a hands-on C# learning experience following the excellent [OttoBotCode YouTube tutorial](https://www.youtube.com/@OttoBotCode), and was later expanded with custom features to make the game more polished and engaging.
+This project began as a hands-on C# learning experience following the excellent [OttoBotCode YouTube tutorial](https://www.youtube.com/watch?v=jcUctrLC-7M), and was later expanded with custom features to make the game more polished and engaging.
 
 ---
 
