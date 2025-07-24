@@ -64,10 +64,4 @@ Built entirely in **C#**, this game uses **Windows Presentation Foundation (WPF)
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to fork, contribute, or reach out with feedback!
+This project was built independently by following the public video tutorial by OttoBotCode on YouTube. No source code from Patreon or external distribution was copied or reused.
